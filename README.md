@@ -4,6 +4,6 @@ He completado con exito el reto de modificar mediante las DevTools del navegador
 
 Consistía en detectar en el codigo html las diferentes partes de la página y poder mopdificar algún texto y el color de algún párrafo.
 
-COmo muestra subo pantallazo de la página original: [([IMAGEN ORIGINAL RETO1.JNPG]](https://github.com/naujsiul/Mi-primer-proyecto/blob/main/IMAGEN%20ORIGINAL%20RETO1.png)
+COmo muestra subo pantallazo de la página original: [IMAGEN ORIGINAL RETO1.png](https://github.com/naujsiul/Mi-primer-proyecto/blob/main/IMAGEN%20ORIGINAL%20RETO1.png)
 
-también subo pantallazo de la págin a modificada: 
+también subo pantallazo de la págin a modificada: [IMAGEN RETO1.png](https://github.com/naujsiul/Mi-primer-proyecto/blob/main/IMAGEN%20RETO1.png)
